@@ -12,4 +12,4 @@
 
 <p style="float: left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulbujor&show_icons=true&locale=en&layout=compact" alt="paulbujor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulbujor&show_icons=true&locale=en" alt="paulbujor" /></p>
+<p style="float: left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulbujor&show_icons=true&locale=en" alt="paulbujor" /></p>
