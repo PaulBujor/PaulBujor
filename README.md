@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Software Engineer at VIA UC</h3>
+<h3 align="center">Junior Systems Engineer @ Systematic</h3>
 
-- 🔭 I’m currently working on [Smart Home](https://github.com/PaulBujor/SmartHome)
+- 🔭 I’m currently doing my internship at Systematic
 
-- 📫 You can reach me here **bujor.paul2000@gmail.com**
+- 📫 You can reach me here **paul.andrei.bujor@outlook.com**
 
 
 
